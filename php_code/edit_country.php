@@ -1,4 +1,4 @@
-<?php #edit_act.php
+<?php #edit_country.php
 
 // This page edits a country demographics entry.
 

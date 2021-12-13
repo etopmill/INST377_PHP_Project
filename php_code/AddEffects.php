@@ -14,7 +14,7 @@ if (isset($_POST['year'])) {
 
 	$errors = array(); // Initialize error array.
 
-    // change this to year, population, size_in_sq_km, life_expectancy
+    // change this to year, global temperature, sea level, us wildfires
     
 	// Check for a year.
 	if (empty($_POST['year'])) 
